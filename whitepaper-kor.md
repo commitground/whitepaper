@@ -934,7 +934,7 @@ Gerritium Foundation은 Gerritium Token 생태계를 키워나가는 역할을 �
 
 1. 토큰 발행 구성
 
-![]()
+![Token allocation](https://s3.ap-northeast-2.amazonaws.com/my-publics/gerritium-token-allocation.png)
 
 2. 향후 예측
 
@@ -972,7 +972,7 @@ Gerritium Foundation은 Gerritium Token 생태계를 키워나가는 역할을 �
    4. 시작 Valuation: $10M
    5. 종료 Valuation: $3.8 B
 
-   ![Token Pricing]()
+   ![Token Pricing](https://s3.ap-northeast-2.amazonaws.com/my-publics/commitground-token-pricing.png)
 
 #### Commitground Inc
 
