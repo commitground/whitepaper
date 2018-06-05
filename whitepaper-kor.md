@@ -694,8 +694,9 @@ Gerritium은 기본 화폐로 쓰이는 물질입니다. 그리고 기여를 인
 
    6개의 Gerritron으로 이루어진 물질입니다. Gerritium에 간단한 충격을 가하면, Light Gerritium과 Gerritron으로 쪼개어지는 Gerritium 분열의 산출물입니다. Light Gerritium은 공기 중 Hyper Gerritron과 반응하여 서서히 Gerritium으로 재전환됩니다. 이 때의 전환 속도는 pHG(potential of Hyper Gerritron)에 비례합니다.
 
+#### Plant system: DPoT(Delegated Proof of Transaction)
 
-#### Plant system의 동작 원리
+Plant system은 DPoT(Delegated Proof of Transcation)에 따라서 보상을 지급합니다. 이 시스템에서 Client는 발생시키고자 하는 Transaction을 Plant에게 전달합니다. 그리고 Plant는 직접 Gas를 소모하여 이더리움 네트워크에 Transaction을 발생시킵니다. Transaction이 성공적으로 수행되었으면 Plant는 그 보상으로 화폐를 만들 수 있는 재료를 얻을 수 있습니다. DPoT는 클라이언트가 직접 블록체인 노드를 가지고 있을 필요가 없도록 만들며, 직접 메인네트워크를 운영하지 않고도 이더리움 네트워크 위에서 보상화된 화폐 경제를 구현할 수 있도록 합니다. 다음을 통해 Gerritium Token Economy의 DPoT인 Plant System이 어떻게 동작하는지 자세하게 살펴보겠습니다.
 
 ![physical-laws-for-gerritium](https://s3.ap-northeast-2.amazonaws.com/my-publics/physical-laws-for-gerritium.png)
 
