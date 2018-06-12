@@ -349,7 +349,7 @@ Upvote할 Activity의 Id입니다.
 
 ## GPT App(Gerritium Project Token Application)
 
-GPT(Gerritium Project Token)란, Commitground를 통해 ICO를 진행할 수 있는 토큰을 의미합니다. GPT App이란 GPT 형태의 토큰을 사용하는 DApp으로, commitground를 통해 GPT App 개발 프로젝트를 수행하는 경우, 프로젝트에 Fund를 유치할 수 있습니다. 또한 기여에 대한 가치평가 시스템에 따라서 기여자들은 프로젝트가 유치한 펀드로부터 보상을 받아 급여처럼 활용할 수 있으며, 프로젝트가 발급할 GPT형태의 토큰 또한 보상받아 스톡옵션처럼 보유할 수 있습니다. 이 시스템은 Gerrit Code Review로부터 영감을 받았으며 TDD(Test Driven Development)에 충실한 애자일 프로젝트 개발 기법을 활용하는 것을 바탕으로 만들어졌습니다.
+GPT(Gerritium Project Token)란 ERC20에서 확장된 토큰 형태로, DApp을 Commitground를 사용하여 개발할 때 해당 DApp에서 사용할 토큰을 GPT로 발행할 수 있습니다. GPT로 토큰을 발행할 경우 commitground 내에서의 ICO를 거쳐 프로젝트에 펀드를 유치할 수 있습니다. 또한 기여에 대한 가치평가 시스템에 따라서 기여자들은 프로젝트가 유치한 펀드로부터 보상을 받아 급여처럼 활용할 수 있으며, 프로젝트가 발급할 GPT형태의 토큰 또한 보상받아 스톡옵션처럼 보유할 수 있습니다. 이 시스템은 Gerrit Code Review로부터 영감을 받았으며 TDD(Test Driven Development)에 충실한 애자일 프로젝트 개발 기법을 활용하는 것을 바탕으로 만들어졌습니다.
 
 이 시스템은 통해 우리는 
 
@@ -376,7 +376,7 @@ GPT(Gerritium Project Token)란, Commitground를 통해 ICO를 진행할 수 있
 
 
 
-###Development Process
+### Development Process
 
 우리는 위 과정을 매끄럽게 진행하는 것을 돕기 위하여 다음과 같은 프로세스를 제공합니다.
 
